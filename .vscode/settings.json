@@ -1,7 +1,16 @@
 {
-  "editor.codeActionsOnSave": {
-    "source.fixAll": "explicit",
-    "source.organizeImports": "explicit",
-    "source.sortMembers": "explicit"
-  }
+	"editor.codeActionsOnSave": {
+		"source.fixAll": "explicit",
+		"source.organizeImports": "explicit",
+		"source.sortMembers": "explicit"
+	},
+	"editor.snippetSuggestions": "top",
+	"javascript.suggest.autoImports": true,
+	"typescript.suggest.autoImports": true,
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"editor.quickSuggestions": {
+		"strings": true
+	}
 }
