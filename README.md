@@ -72,15 +72,19 @@ Welcome to the Fullstack Recipe App! This project is a complete recipe managemen
 
 #### Home Screen
 
-![Home Screen](assets/images/screenshot-for-readme.png)
+![Home Screen](assets/images/screenshots/home-screen.png)
 
 #### Recipe Details
 
-![Recipe Details](assets/images/i1.png)
+![Recipe Details](assets/images/screenshots/recipe-detail.png)
 
 #### Favorites
 
-![Favorites](assets/images/i2.png)
+![Favorites](assets/images/screenshots/favorite-screen.png)
+
+#### Search
+
+![Search](assets/images/screenshots/search-screen.png)
 
 ## Learn More 📚
 
